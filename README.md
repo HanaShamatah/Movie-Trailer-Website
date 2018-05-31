@@ -17,6 +17,10 @@ Generate a website shows your favourite movies with their poster image and youtu
 - Then, run the code according to the text editor you are used. I used ctrl+B in Sublime Text3 to run.
 - The website will open with your favourite movies list.
 
+## Get started
+Fork this repository to create your own copy in GitHub. Then clone your  repository to work on this project locally on your computer.
+
 **Note:** The codes are organized according to [PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces)
-# License
+
+## License
 The content of this repository is licensed under a [MIT](https://choosealicense.com/licenses/mit/)
