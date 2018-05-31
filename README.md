@@ -4,10 +4,10 @@ Generate a website shows your favourite movies with their poster image and youtu
 - Create **Movie class** in [media.py](https://github.com/HanaShamatah/Movie-Trailer-Website/blob/master/media.py) file that: 
   - Save multiple instance that identifying: the title, storyline, poster image, and youtube trailer of the movie.
   - identify instanes methods to open the poster image and trailer url.
-- Create multiple instances for each movie in [Movie.website.py](https://github.com/HanaShamatah/Movie-Trailer-Website/blob/master/Movie_website.py) code.
+- Create multiple instances for each movie in [entertainment_center.py](https://github.com/HanaShamatah/Movie-Trailer-Website/blob/master/entertainment_center.py) code.
 - Use [fresh_tomatoes.py](https://github.com/udacity/ud036_StarterCode) python module that creates an _HTML_ file to generate a website that displays these movies by calling _open_movies_page_ function with movies list as an input.
 ## How to Run
-- Open Movie.website.py code
+- Open [entertainment_center.py](https://github.com/HanaShamatah/Movie-Trailer-Website/blob/master/entertainment_center.py) code
 - Add your _n_ favourite movies starting from movie 1 in line 14 with the following inputs in order:
   - Title
   - Storyline
