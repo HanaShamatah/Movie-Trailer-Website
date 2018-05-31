@@ -19,4 +19,4 @@ Generate a website shows your favourite movies with their poster image and youtu
 
 **Note:** The codes are organized according to [PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces)
 # License
-The content of this repository is licensed under a MIT
+The content of this repository is licensed under a [MIT](https://choosealicense.com/licenses/mit/)
