@@ -18,7 +18,7 @@ Generate a website shows your favourite movies with their poster image and youtu
 - The website will open with your favourite movies list.
 
 ## Get started
-Fork this repository to create your own copy in GitHub. Then clone your it to work on this project locally on your computer.
+Fork this repository to create your own copy in GitHub. Then clone your repository to work on this project locally on your computer.
 
 **Note:** The codes are organized according to [PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces)
 
