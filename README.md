@@ -18,3 +18,5 @@ Generate a website shows your favourite movies with their poster image and youtu
 - The website will open with your favourite movies list.
 
 **Note:** The codes are organized according to [PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces)
+# License
+The content of this repository is licensed under a MIT
