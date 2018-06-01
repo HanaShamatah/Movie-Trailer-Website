@@ -36,6 +36,7 @@ movies_list = [Movie_1, Movie_2, Movie_3, Movie_4, Movie_5, Movie_6]  # list of 
 # use open_movies_page function in fresh_tomatoes module with "movie list" input
 fresh_tomatoes.open_movies_page(movies_list)
 
+# The following commands are to shows the title, storyline, poster image and the youtube trailer, respectively.
 # print(Movie_1.title)
 # print(Movie_1.storyline)
 # Movie_1.show_poster()
