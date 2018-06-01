@@ -2,10 +2,10 @@
 Generate a website shows your favourite movies with their poster image and youtube tariler.
 ## Project Steps
 - Create **Movie class** in [media.py](https://github.com/HanaShamatah/Movie-Trailer-Website/blob/master/media.py) file that: 
-  - Save multiple instance that identifying: the title, storyline, poster image, and youtube trailer of the movie.
-  - identify instanes methods to open the poster image and trailer url.
+  - Save multiple instances that identifying: the title, storyline, poster image, and youtube trailer of the movie.
+  - identify instances methods to open the poster image and trailer url.
 - Call the constructor media.Movie() to instantiate movie objects in [entertainment_center.py](https://github.com/HanaShamatah/Movie-Trailer-Website/blob/master/entertainment_center.py).
-- Use [fresh_tomatoes.py](https://github.com/udacity/ud036_StarterCode) python module that creates an _HTML_ file to generate a website that displays these movies by calling _open_movies_page_ function with movies list as an input.
+- Use [fresh_tomatoes.py](https://github.com/udacity/ud036_StarterCode) python module that creates an _HTML_ file to generate a website that displays these movies by calling the _open_movies_page_ function with movies list as an input.
 ## How to Run
 - Open [entertainment_center.py](https://github.com/HanaShamatah/Movie-Trailer-Website/blob/master/entertainment_center.py) code
 - Add your _n_ favourite movies starting from movie 1 in line 14 with the following inputs in order:
@@ -23,4 +23,4 @@ Fork this repository to create your own copy in GitHub. Then clone your reposito
 **Note:** The codes are organized according to [PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces)
 
 ## License
-The content of this repository is licensed under a [MIT](https://choosealicense.com/licenses/mit/)
+The content of this repository is licensed under an [MIT](https://choosealicense.com/licenses/mit/)
