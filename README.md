@@ -24,7 +24,7 @@ Fork this repository to create your own copy in GitHub. Then clone your reposito
 
  ## Notes
 - The codes are organized according to [PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
-- _E501 error_ "line too long" appears from testing _entertainment_center.py_ code in [PEP8 online code check](http://pep8online.com/) because some movies have a long storyline that cannot be split into many lines.
+- _# noqa_ used in storyline and URL lines in entertainment_center.py code to ignore the error of using more than 79 characters that appear when checking in [PEP8 online code check](http://pep8online.com/)
 
 ## License
 The content of this repository is licensed under an [MIT](https://choosealicense.com/licenses/mit/)
