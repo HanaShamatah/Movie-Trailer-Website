@@ -15,10 +15,9 @@ Movie_6 = media.Movie("Face off", "Obsessed with bringing terrorist Castor Troy 
 
 movies_list = [Movie_1, Movie_2, Movie_3, Movie_4, Movie_5, Movie_6]  # list of n movies
 
-# use open_movies_page function in repository code with "movie list" input
+# use open_movies_page function in fresh_tomatoes module with "movie list" input
 fresh_tomatoes.open_movies_page(movies_list)
 
-###
 # print(Me_before_you.title)
 # print(Me_before_you.storyline)
 # Me_before_you.show_poster()
