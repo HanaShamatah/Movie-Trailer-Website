@@ -10,8 +10,8 @@ class Movie():
         self.poster_image_url = movie_image_url
         self.trailer_youtube_url = movie_trailer_url
 
-    def show_trailer(self):
+    def show_trailer(self):  # to open trailer url
         webbrowser.open(self.trailer_youtube_url)
 
-    def show_poster(self):
+    def show_poster(self):  # to open poster url
         webbrowser.open(self.poster_image_url)
