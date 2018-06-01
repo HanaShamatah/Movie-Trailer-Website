@@ -17,7 +17,7 @@ Fork this repository to create your own copy in GitHub. Then clone your reposito
   - Storyline
   - poster image url
   - Youtube trailer url
-- Edit the movies list in line 34 to the number of movies you have inserted _"n"_.
+- Edit the movies_list to the number of movies you have inserted _"n"_.
 - Then, run the code according to the text editor you are using. I used ctrl+B in Sublime Text3 to run.
 - The website will open with your favourite movies list.
 - If you run the code without editing, you will open a website of my favourite movies.
