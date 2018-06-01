@@ -1,5 +1,6 @@
-## checked by PEP
+# checked by PEP
 import webbrowser
+
 
 class Movie():
     "Thia class is for saving movies info"
